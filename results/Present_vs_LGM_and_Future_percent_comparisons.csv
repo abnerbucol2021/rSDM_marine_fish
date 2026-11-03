@@ -1,0 +1,5 @@
+"region","comparison","present_reference_area_km2","comparison_area_km2","difference_km2","percent_difference_vs_present"
+"Overall model extent (all modelled marine depths)","LGM relative to present",4756335.28551898,714997.538900138,-4041337.74661884,-84.9674697854669
+"Overall model extent (all modelled marine depths)","Future relative to present",4756335.28551898,7073302.8291888,2316967.54366982,48.7132929994234
+"Philippines map window (0-20 m water depth)","LGM relative to present",30133.3578282933,1957.99319522079,-28175.3646330725,-93.5022402535493
+"Philippines map window (0-20 m water depth)","Future relative to present",30133.3578282933,32283.929991792,2150.57216349871,7.13684872344185

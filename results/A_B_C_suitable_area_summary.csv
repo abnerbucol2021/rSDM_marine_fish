@@ -1,0 +1,4 @@
+"period","full_extent_predicted_area_km2","full_extent_valid_marine_area_km2","full_extent_predicted_presence_cells","Philippines_window_0_20m_predicted_area_km2","Philippines_window_0_20m_valid_area_km2","Philippines_window_0_20m_cells","Philippines_window_0_20m_predicted_presence_cells","change_vs_present_full_percent","change_vs_present_PH_0_20m_percent"
+"A. LGM (~21 ka)",714997.538900138,78181045.0179058,23956,1957.99319522079,5964.52689478573,197,65,-84.9674697854669,-93.5022402535493
+"B. Present (2010-2020)",4756335.28551898,85536331.5574388,159827,30133.3578282933,42631.7965747322,1408,999,0,0
+"C. SSP5-8.5 (2090-2100)",7073302.8291888,85536331.5574388,239664,32283.929991792,40579.4343228552,1340,1069,48.7132929994234,7.13684872344185
